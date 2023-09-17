@@ -7,7 +7,7 @@ I have a passion for participating in coding competitions to enhance my knowledg
 Feel free to connect with me through:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&style=rounded)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&style=rounded)](mailto:your-email@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&style=rounded)](mailto:michelle.oliver.eme@gmail.com)
 
 ## :toolbox: Technologies and Tools
 
