@@ -39,5 +39,3 @@ I enjoy working with the following technologies and tools:
 - **Competitions**: Actively participating in coding competitions and hackathons
 
 I'm always on the lookout to learn new things and collaborate on exciting projects!
-
-```markdown
