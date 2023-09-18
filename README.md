@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hello there, I'm Michelle Ramirez</i></h1>
+<h1 align="center"><i>Hello there, I'm Michelle Ramirez :wave: </i></h1>
 
 My name is **Michelle Ramirez**, and I'm an undergraduate student pursuing a degree in **Computer Science and Engineering** at [Universidad Diego Portales](https://www.udp.cl/).
 
