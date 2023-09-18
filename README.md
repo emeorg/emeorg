@@ -1,6 +1,6 @@
-<h1 align="center"><i>Hello there, I'm Michelle Ramirez :wave: </i></h1>
+<h1 align="center"><i>Hello there, I'm Michelle Ramírez :wave: </i></h1>
 
-My name is **Michelle Ramirez**, and I'm an undergraduate student pursuing a degree in **Computer Science and Engineering** at [Universidad Diego Portales](https://www.udp.cl/).
+My name is **Michelle Ramírez**, and I'm an undergraduate student pursuing a degree in **Computer Science and Engineering** at [Universidad Diego Portales](https://www.udp.cl/).
 
 I have a passion for participating in coding competitions to enhance my knowledge and skills in algorithms and coding.
 
